@@ -45,14 +45,14 @@ PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 # 个人常用
-PACKAGES="$PACKAGES luci-app-adguardhome"
+# PACKAGES="$PACKAGES luci-app-adguardhome"
 PACKAGES="$PACKAGES luci-app-hd-idle"
 PACKAGES="$PACKAGES luci-app-openclash"
-PACKAGES="$PACKAGES luci-app-mosdns"
+# PACKAGES="$PACKAGES luci-app-mosdns"
 PACKAGES="$PACKAGES luci-app-p910nd"
-PACKAGES="$PACKAGES luci-app-partexp"
+# PACKAGES="$PACKAGES luci-app-partexp"
 PACKAGES="$PACKAGES luci-app-ramfree"
-PACKAGES="$PACKAGES luci-app-uugamebooster"
+# PACKAGES="$PACKAGES luci-app-uugamebooster"
 PACKAGES="$PACKAGES luci-app-qbittorrent"
 
 # 构建镜像
